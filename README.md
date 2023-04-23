@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @tanjoychatterjee
-- 👀 I’m interested in Web Dev & Data Science
+- 👋 Hi, I’m @_tanjoy_
+- 👀 I’m a java developer
 - 🌱 I’m currently learning Spring, Cloud
 - 💞️ I’m looking to collaborate on ... ?
 - 📫 How to reach me ...? @joy.chak1997@gmail.com
