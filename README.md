@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @_tanjoy_
-- 👀 I’m a java developer
+Hii All,
+
+I have a keen interest to work as a Java Developer. 
 
 <!---
 tanjoychatterjee/tanjoychatterjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
